@@ -1,0 +1,6 @@
+MATCH (e:Entity)-[r]-(n)
+WHERE toLower(e.name) = 'ernie wise'
+RETURN e, r, n
+
+
+
