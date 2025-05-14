@@ -1,0 +1,9 @@
+neo4j==5.28.1
+requests==2.32.3
+sentence-transformers==4.1.0
+ctransformers==0.2.27
+spacy==3.8.5
+
+llama-cpp-python==0.3.8
+
+Flask==3.1.0
